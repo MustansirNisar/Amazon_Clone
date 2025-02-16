@@ -24,7 +24,6 @@
     border: none;
     display: none;
 }
-
 /* box-one */
 #logo{
    height: 3.5vw;
@@ -48,10 +47,6 @@
 @media(max-width: 600px){
     .navbar{
         height: 150px;
-        /* display: flex;
-        flex-wrap: wrap;
-        align-items: center;
-        justify-content: space-evenly; */
     }
     .navbar button{
         display: initial;
@@ -255,8 +250,7 @@ span{
     justify-content: space-evenly;
     background-color: #e2e7e6;
     height: 955px;
-    
-  }
+      }
 
 .box{
     height: 400px;
