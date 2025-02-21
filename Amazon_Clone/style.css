@@ -176,8 +176,7 @@ span{
     font-weight: 700;
 }
 
-
- /*Progressive-content */
+/*Progressive-content */
 .progressive-content{
     background-color: #222f3d;
     height: 40px;
@@ -241,8 +240,8 @@ span{
     text-decoration: none;
     color: #007185;
 }
- /* Shopping Section */
 
+ /* Shopping Section */
 .shop-section{
     display: flex;
     flex-wrap: wrap;
@@ -250,7 +249,7 @@ span{
     justify-content: space-evenly;
     background-color: #e2e7e6;
     height: 955px;
-      }
+}
 
 .box{
     height: 400px;
