@@ -389,8 +389,8 @@ span{
 
 }
 .scroll-im h2{
-    position: sticky;
-    bottom: 270px;
+   position: sticky;
+   bottom: 270px;
    left: 10px;
 }  
 .scroll-content{
