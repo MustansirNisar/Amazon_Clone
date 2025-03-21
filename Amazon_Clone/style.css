@@ -200,7 +200,7 @@ span{
     font-weight: 700;
 }
 .all{
-    font-weight: 700;
+   font-weight: 700;
    padding-left: 10px;
    height: 30px;
    line-height: 30px;
@@ -345,11 +345,8 @@ span{
     height: 80px;
     text-align: center;
     font-size: 0.7rem;
-    /* display: flex;
-    align-items: center;
-    justify-content: center;  */
-
 }
+
 .pages{
     padding-top: 30px;
 
